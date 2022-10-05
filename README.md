@@ -2,12 +2,6 @@
 
 # LinkedInMoodle
 
-### 5180000879 - MOHAMMAD MAHDI SARHANGI
-
-### 5180000038 - ECE TEK
-
-### 5190000841 - VELİ YAŞAR
-
 ### ANALYSIS
 
 **1. Write a brief explanation using your own words (in English) about these applications in
